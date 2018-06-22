@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ml": "ocaml",
+        "*.mli": "ocaml",
+        "gtk.h": "c",
+        "kolejka_nagl.h": "c",
+        "plansza_nagl.h": "c"
+    }
+}
